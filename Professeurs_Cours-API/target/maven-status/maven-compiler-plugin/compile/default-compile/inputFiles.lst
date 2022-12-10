@@ -1,0 +1,15 @@
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\ProfesseursCoursApplication.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\repos\CoursRepository.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\repos\ProfesseurRepository.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\entities\ProfesseurProjection.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\Service\ProfesseurService.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\entities\Professeur.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\restcontrollers\CoursRESTController.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\security\SecurityConfig.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\entities\Cours.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\restcontrollers\ProfesseurRESTController.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\Service\CoursService.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\Service\ProfesseurServiceImpl.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\security\SecParams.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\security\JWTAuthorizationFilter.java
+C:\Users\RANIM\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Professeurs_Cours-API\src\main\java\com\Ranim\demo\Service\CoursServicelmpl.java
